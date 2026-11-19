@@ -1,5 +1,5 @@
 Hi, ich bin Oliver 👋
-Data Analyst · AI & Process Optimization bei einer Amazon-Full-Service-Agentur 
+Data Analyst · AI & Process Optimization 
 
 Ich baue Datensysteme: vom Abruf der Rohdaten über die Aufbereitung bis zum Dashboard
 
