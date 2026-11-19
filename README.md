@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, ich bin Oliver 👋
+Data Analyst · AI & Process Optimization bei einer Amazon-Full-Service-Agentur 
 
-<!--
-**OliverWolf99/OliverWolf99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue Datensysteme: vom Abruf der Rohdaten über die Aufbereitung bis zum Dashboard
 
-Here are some ideas to get you started:
+🔧 Woran ich arbeite
+KPI-Dashboard-System – ETL-Pipelines über die Amazon Selling Partner API und Advertising API, historische Produktdaten, Reporting- und Jahresauswertungen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alerting & Monitoring – automatische Warnungen bei Umsatzeinbrüchen, Out-of-Stock, Listing-Problemen; tägliche Snapshots für Trendanalysen & mehr
+
+Prozessautomatisierung – Aufgaben entstehen automatisch aus Daten (ClickUp-Integration, Google-Sheets-Anbindung, Zeiterfassungs-Pipeline)
+
+Die meisten dieser Projekte liegen in privaten Firmen-Repositories. 
+
+🧰 Stack
+Python · SQL · JavaScript · REST-APIs · Git · Linux-Server · ClickUp API & mehr
+
+📈 Interessen
+Datenqualität und Pipelines · Kennzahlen, die man versteht · Automatisierung mit Kontrollschritten statt Blackbox · E-Commerce-Analytics
